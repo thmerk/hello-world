@@ -1,4 +1,4 @@
 # hello-world
 
-My name is Thomas. I work in IT and am striving to become better everyday. 
+My name is Thomas.
 Let the journey begin. 
